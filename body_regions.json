@@ -1,0 +1,7 @@
+{'Lower Extremity': ['knee', 'ankle','hamstring','foot','achilles','leg','calf','quadriceps','hip','toe','thighs','lisfranc','shin','heel','lower body'],
+'Upper Extremity': ['shoulder','elbow','biceps','wrist','hand','thumb','forearms','finger','triceps','clavicle','arm'],
+'Torso' : ['groin','back','pectoral','abdomen','ribs','chest','core muscle','core','kidney','oblique','upper body','spine','pelvis','spleen','heart']
+'Head' : ['Concussion','head','eye','jaw'],
+'Neck' : ['neck','throat']
+'Other': ['undisclosed','illness']
+}
